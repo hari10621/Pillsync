@@ -1,0 +1,20 @@
+# Django and Core Framework
+Django>=5.0.6,<5.1.0
+djangorestframework>=3.15.1
+djangorestframework-simplejwt>=5.3.1
+django-cors-headers>=4.3.1
+python-decouple>=3.8
+
+# API Documentation
+drf-spectacular>=0.27.2
+
+# OCR & Image Processing
+Pillow>=10.3.0
+pytesseract>=0.3.10
+
+# AI & LLM Integration
+groq>=0.5.0
+
+# Export & Reporting (Excel & PDF)
+openpyxl>=3.1.2
+reportlab>=4.2.0
