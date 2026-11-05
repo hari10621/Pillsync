@@ -2,30 +2,7 @@
 
 PillSync is an end-to-end healthcare assistance platform designed to ensure medication adherence, streamline refill management, and empower patients, caregivers, and medical administrators through intelligent scheduling, prescription OCR processing, and conversational AI insights.
 
-\---
 
-## 📌 Table of Contents
-
-* [Project Overview](#-project-overview)
-* [Key Features](#-key-features)
-
-  * [Patient Experience](#patient-experience)
-  * [Caregiver Portal](#caregiver-portal)
-  * [Administrative Control](#administrative-control)
-  * [OCR \& AI Intelligence](#ocr--ai-intelligence)
-* [System Architecture](#-system-architecture)
-* [Tech Stack](#-tech-stack)
-* [Directory Structure](#-directory-structure)
-* [API Endpoints Overview](#-api-endpoints-overview)
-* [Getting Started](#-getting-started)
-
-  * [Prerequisites](#prerequisites)
-  * [Backend Setup (Django)](#backend-setup-django)
-  * [Frontend Setup (React + Vite)](#frontend-setup-react--vite)
-* [Environment Configuration](#-environment-configuration)
-* [License](#-license)
-
-\---
 
 ## 🩺 Project Overview
 
